@@ -2,8 +2,7 @@ exercise #1
 
 Objectives : To improve my basic knowledge of API usage, pulling data from openweathermap.org.
 
-reference video : https://youtu.be/Q4377DH5Jso?si=SkFZ5D-PM5Mcte5K
-
+reference video : https://youtu.be/Q4377DH5Jso?si=apZaNAqrTQUAe0wT
 Interface :
 
 ![image](https://github.com/user-attachments/assets/06b2f172-8980-4396-b649-98ee918ee545)
